@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (Final Project Code)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.4 (sftp://dafkad@bm@132.68.176.190:22/home/dafkad@bm.technion.ac.il/.virtualenvs/Final Project Code/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.14 (sftp://dafkad@bm@132.68.176.190:22/alsxdata/envs/ItamarAndDafnaEnv/bin/python)" project-jdk-type="Python SDK" />
 </project>
