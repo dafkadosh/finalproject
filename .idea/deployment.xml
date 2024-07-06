@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="dafkad@bm@132.68.176.190:22 password (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gaon-izhar@bm@132.68.176.190:22 password (6)" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="dafkad@bm@132.68.176.190:22 password">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_241" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="dafkad@bm@132.68.176.190:22 password (2)">
+      <paths name="gaon-izhar@bm@132.68.176.190:22 password">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="dafkad@bm@132.68.176.190:22 password (3)">
+      <paths name="gaon-izhar@bm@132.68.176.190:22 password (2)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_437" local="$PROJECT_DIR$" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaon-izhar@bm@132.68.176.190:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaon-izhar@bm@132.68.176.190:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaon-izhar@bm@132.68.176.190:22 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaon-izhar@bm@132.68.176.190:22 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_631" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
